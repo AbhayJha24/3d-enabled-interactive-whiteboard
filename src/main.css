@@ -1265,7 +1265,7 @@ iframe.featuresModels{
     width: 40rem;
     height: 30rem;
     border-radius: 20px;
-    padding: 1%;
+    /* padding: 1%; */
 }
 
 div.featuresModels:hover{
