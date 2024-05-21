@@ -1262,8 +1262,8 @@ div.featuresModelLoadingSpinnerHidden{
 iframe.featuresModels{
     position: relative;
     background-color: #cfd6e4;
-    width: 400px;
-    height: 260px;
+    width: 40rem;
+    height: 30rem;
     border-radius: 20px;
     padding: 1%;
 }
@@ -1751,6 +1751,10 @@ p.terms{
 
 @media (max-width: 1000px){
 
+    iframe.featuresModels{
+        width: 98%;
+    }
+
     div.successModal{
         width: 30%;
     }
@@ -1813,10 +1817,6 @@ p.terms{
         width: 80%;
         font-size: 3vw;
         margin-bottom: 20px;
-    }
-
-    iframe.featuresModels{
-        display: none;
     }
 
     div.featuresModelDetails{

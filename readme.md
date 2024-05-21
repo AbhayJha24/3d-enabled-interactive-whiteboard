@@ -1,0 +1,1 @@
+![Sample Screenshot from the website showing a 3D model](./sample.png "Sample Screenshot from the website showing a 3D model")

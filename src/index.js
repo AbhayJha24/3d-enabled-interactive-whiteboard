@@ -2,6 +2,8 @@ import React, {Suspense, lazy} from 'react'
 import ReactDOM from 'react-dom'
 import { HashRouter, Routes, Route} from 'react-router-dom'
 
+import './main.css'
+
 const Models = lazy(() => import ('./models'))
 
 ReactDOM.render(
